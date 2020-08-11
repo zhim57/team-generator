@@ -36,6 +36,7 @@ zhim57@yahoo.com
 the rutgers full stack web developement bootcamp team
 ## License
 ![GitHub](https://img.shields.io/github/license/zhim57/team-generator)
+![GitHub](https://img.shields.io/github/license/zhim57/team-generator)
 
 ## Tests
 simulated user tests
