@@ -48,6 +48,8 @@ please email Jivko Atanassov with any questions at: zhim57@yahoo.com. Thank You!
 [link to this portfolio](https://github.com/zhim57/team-generator)
 
 [link to the deployed application](https://github.com/zhim57/team-generator)
+
+[link for the video walk-through](https://youtu.be/ppvH5bmfEGE)
   
 
 ## Screenshots
