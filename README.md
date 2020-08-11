@@ -1,6 +1,7 @@
 
     
-# Title : team-generator
+# Title
+team-generator
 
 ## Description
 Author: Jivko Atanassov
