@@ -41,7 +41,7 @@ the rutgers full stack web developement bootcamp team
 simulated user tests
 
 ## Questions
-please email Jivko Atanassov with any questions at: zhim57@yahoo.com. Thank You.
+please email Jivko Atanassov with any questions at: zhim57@yahoo.com. Thank You!
 
 ## Links
 
