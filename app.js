@@ -2,7 +2,7 @@ const Manager = require("./lib/Manager");
 const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
 const Employee = require("./lib/Employee");
- 
+
 const questionArray = require("./lib/questionArray");
 
 const inquirer = require("inquirer");
@@ -33,7 +33,7 @@ function inputEmployeeInfo() {
 
             fs.writeFile(outputPath, render(employees), (err) => {
                 if (err) return console.log(err);
-                console.log(`team.html : ${outputPath}`);
+                console.log(`your file is ready : ${outputPath} `);
             });
             return
         }
